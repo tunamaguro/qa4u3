@@ -13,7 +13,8 @@
 			"extensions": [
 				"charliermarsh.ruff",
 				"ms-python.python",
-				"redhat.vscode-yaml"
+				"redhat.vscode-yaml",
+				"ms-toolsai.jupyter"
 			]
 		}
 	}
