@@ -1903,6 +1903,7 @@ source = { virtual = "." }
 dependencies = [
     { name = "jijmodeling-transpiler" },
     { name = "matplotlib" },
+    { name = "networkx" },
     { name = "numpy" },
     { name = "openjij" },
 ]
@@ -1918,6 +1919,7 @@ dev = [
 requires-dist = [
     { name = "jijmodeling-transpiler", specifier = ">=0.7.3" },
     { name = "matplotlib", specifier = ">=3.10.1" },
+    { name = "networkx", specifier = ">=3.4.2" },
     { name = "numpy", specifier = ">=1.26.4" },
     { name = "openjij", specifier = ">=0.9.2" },
 ]
